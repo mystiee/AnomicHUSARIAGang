@@ -1,0 +1,119 @@
+body {
+	margin: 0;
+	padding: 0;
+	}
+.zdj {
+	position: absolute;
+	left: 6%;
+	top: 10%;
+	}
+.nazwa {
+	position: absolute;
+	left: 40%;
+	top: 10%;
+	font-size: 500%;
+	}
+.cena {
+	position: absolute;
+	left: 50%;
+	top: 25%;
+	font-size: 500%;
+	}
+.ammo {
+	position: absolute;
+	left: 50%;
+	top: 40%;
+	font-size: 300%;
+	}
+.pasek11 {
+	background: grey;
+	border-radius: 100px;
+	position: absolute;
+	padding: 0 5px;
+	height: 5%;
+	width: 40%;
+	z-index: 5;
+	left: 25%;
+	top: 65%;
+	}
+.pasek12 {
+	background: grey;
+	border-radius: 100px;
+	position: absolute;
+	padding: 0 5px;
+	height: 5%;
+	width: 40%;
+	z-index: 5;
+	left: 25%;
+	top: 71%;
+	}
+.pasek13 {
+	background: grey;
+	border-radius: 100px;
+	position: absolute;
+	padding: 0 5px;
+	height: 5%;
+	width: 40%;
+	z-index: 5;
+	left: 25%;
+	top: 77%;
+	}
+.pasek14 {
+	background: grey;
+	border-radius: 100px;
+	position: absolute;
+	padding: 0 5px;
+	height: 5%;
+	width: 40%;
+	z-index: 5;
+	left: 25%;
+	top: 83%;
+	}
+.staty1 {
+	position: absolute;
+	left: 10%;
+	top: 66%;
+	font-size: 100%;
+	}
+.staty2 {
+	position: absolute;
+	left: 10%;
+	top: 72%;
+	font-size: 100%;
+	}
+.staty3 {
+	position: absolute;
+	left: 10%;
+	top: 78%;
+	font-size: 100%;
+	}
+.staty4 {
+	position: absolute;
+	left: 10%;
+	top: 84%;
+	font-size: 100%;
+	}
+.n1 {
+	position: absolute;
+	left: 67%;
+	top: 66%;
+	font-size: 100%;
+	}
+.n2 {
+	position: absolute;
+	left: 67%;
+	top: 72%;
+	font-size: 100%;
+	}
+.n3 {
+	position: absolute;
+	left: 67%;
+	top: 78%;
+	font-size: 100%;
+	}
+.n4 {
+	position: absolute;
+	left: 67%;
+	top: 84%;
+	font-size: 100%;
+	}
