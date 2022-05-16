@@ -1,6 +1,7 @@
 body {
 	margin: 0;
 	padding: 0;
+	cursor: url("Finger.png"), auto;
 	}
 div.wybor1 {
 	background-color: grey;
@@ -19,6 +20,7 @@ div.wybor1 {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	cursor: url("MiddleFinger.png"), auto;
 	}
 div.wybor1:hover {
 	opacity : 0.70;
@@ -41,6 +43,7 @@ div.wybor2 {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	cursor: url("MiddleFinger.png"), auto;
 	}
 div.wybor2:hover {
 	opacity : 0.70;
@@ -82,6 +85,7 @@ img.powrot {
 	left: 9%;
 	top: 5%;
 	z-index: 4;
+	cursor: url("MiddleFinger.png"), auto;
 	}
 img.bronw {
 	width: 45%;
@@ -94,6 +98,7 @@ img.bronw {
 	border-top-left-radius: 50px;
 	border-bottom-right-radius: 50px;
 	border-bottom-left-radius: 50px;
+	cursor: url("MiddleFinger.png"), auto;
 	z-index: 4;
 	}
 img.bron {
@@ -103,6 +108,7 @@ img.bron {
 	left: 5%;
 	top: 15%;
 	z-index: 4;
+	cursor: url("MiddleFinger.png"), auto;
 	}
 img.auto {
 	width: 45%;
@@ -111,6 +117,7 @@ img.auto {
 	left: 50%;
 	top: 15%;
 	z-index: 4;
+	cursor: url("MiddleFinger.png"), auto;
 	}
 img.autow {
 	width: 45%;
@@ -124,6 +131,7 @@ img.autow {
 	border-bottom-right-radius: 50px;
 	border-bottom-left-radius: 50px;
 	z-index: 4;
+	cursor: url("MiddleFinger.png"), auto;
 	}
 a.wybrane {
 	border: 1px black solid;
@@ -134,6 +142,7 @@ a.kat1 {
 	top: 30%;
 	z-index: 5;
 	font-size: 150%;
+	cursor: url("MiddleFinger.png"), auto;
 	}
 a.kat2 {
 	position: absolute;
@@ -141,6 +150,7 @@ a.kat2 {
 	top: 60%;
 	z-index: 5;	
 	font-size: 150%;
+	cursor: url("MiddleFinger.png"), auto;
 	}
 a.kat3 {
 	position: absolute;
@@ -148,13 +158,15 @@ a.kat3 {
 	top: 30%;
 	z-index: 5;	
 	font-size: 150%;
+	cursor: url("MiddleFinger.png"), auto;
 	}
 a.kat4 {
 	position: absolute;
 	left: 45%;
 	top: 60%;
 	z-index: 5;
-	font-size: 150%;	
+	font-size: 150%;
+	cursor: url("MiddleFinger.png"), auto;
 	}
 div.abron1 {
 	position: absolute;
@@ -207,6 +219,7 @@ div.osoby {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	cursor: url("MiddleFinger.png"), auto;
 	}
 a.link1:link {
 	color: black;
@@ -216,6 +229,7 @@ a.link1:visited {
 	}
 a.link1:hover {
 	color: black;
+	cursor: url("MiddleFinger.png"), auto;
 	}
 a.link1:active {
 	color: #4d4d4d;
@@ -227,7 +241,8 @@ a.link2:visited {
 	color: black;
 	}
 a.link2:hover {
-	color: #4d4d4d;;
+	color: #4d4d4d;
+	cursor: url("MiddleFinger.png"), auto;
 	}
 a.link2:active {
 	color: #4d4d4d;
